@@ -1,0 +1,3 @@
+name: SPRINTseq-demo 
+dependencies:
+  - python=3.8.13

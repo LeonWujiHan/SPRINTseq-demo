@@ -1,0 +1,16 @@
+backgrounds:
+  Convex Hull: demo_use_convex_hull.jpg
+  DAPI: demo_use_DAPI_downsample_10.jpg
+convert_factor: 500000
+data_folder: data
+default_cell_types:
+- Astro
+- Micro
+- Oligo
+file_names:
+  cell_df: cells.csv
+  rna_df: rna_labeled.csv
+image_repo: https://raw.githubusercontent.com/LeonWujiHan/pics/main/
+original_shape:
+  lat: 46888
+  lon: 62465
