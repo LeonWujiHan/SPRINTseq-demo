@@ -3,6 +3,7 @@ backgrounds:
   DAPI: demo_use_DAPI_downsample_10.jpg
 convert_factor: 500000
 data_folder: data
+grid_image: demo_use_convex_hull_grid.jpg
 default_cell_types:
 - Astro
 - Micro
